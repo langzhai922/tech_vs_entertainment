@@ -2,7 +2,7 @@
 
 This was a group project I did in my university course, where I compare different machine learning techniques to predict the class of a news article, out of two possible classes. The algorithms used were *Logistic Regression, Naive Bayes, SVM and Neural Network.*
 
-More details on implementation/findings are in the .ipynb file.
+More details on implementation/findings/thought-processes are in the .ipynb file.
 
 # Dataset
 The datasets consists of 534 BBC news articles on either tech or entertainment news. The two csv files "test.csv" and "train.csv" have three columns each:
